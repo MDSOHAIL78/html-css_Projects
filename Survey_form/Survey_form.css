@@ -1,0 +1,27 @@
+body{
+background-color:#6f5f2d;
+font-family:Lucida Fax;
+display:inline;
+
+}
+#title{
+  font-size:30px;
+  display:block;
+  color:white;
+  text-align:center;
+}
+#description{
+  color:white;
+  font-size:12px;
+  text-align:center;
+  padding:0 2px 2px 1px;
+}
+fieldset{
+  display:block;
+  color:white;
+  margin:auto;
+  padding: 10px 10px 10px 10px;
+  border-radius:20px;
+  border-color:#ffffff;
+}
+
