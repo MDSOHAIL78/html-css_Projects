@@ -1,0 +1,15 @@
+*{
+  background-color:#dfdfe2;
+}
+#image{
+  display:block;
+  max-width:100%;
+  height:auto;
+  justify-content:center;
+}
+nav{
+  text-align:center;
+  font-size:19px;
+  color:red;
+  background-color:black;
+}
